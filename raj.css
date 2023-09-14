@@ -1,0 +1,175 @@
+*{
+    color: white;
+}
+img{
+    height: 50px;
+    width: 70px;
+    background-size: cover;
+}
+#wwe{
+    background-color: black;
+    height: 65px;
+    top: 0px;
+}
+a{
+    text-decoration: none;
+    margin-right: 40px;
+}
+button{
+    background-color:coral;
+    height: 35px;
+    width: 40px;
+}
+input{
+    padding: 10px 4px 10px 3px;
+    width: 359.69px;
+    height: 10px;
+    color: black;
+}
+#flag{
+    display: inline;
+    padding:0px 1px;
+    margin: -5px 5px;
+    height: 21.6px;
+    width: 20px;
+}
+#bt{
+    background-color: rgb(222, 221, 221);
+    color: black;
+}
+h1{
+    color: red;
+}
+#opiton{
+    color: black;
+    width: 13px;
+}
+option{
+    color: black;
+}
+#second{
+    background-color: rgb(44, 44, 60);
+    height: 60px;
+    display: inline-block;
+    width: max-content;
+}
+.my{
+    margin-right: 15px;
+    padding: 5px;
+    display: inline-block;
+    font-size: 14px;
+}
+#photo{
+    width: 398px;
+}
+#footer{
+    background-color: rgb(69, 69, 96);
+    height: 400px;
+}
+#mid{
+    background-color: rgb(209, 206, 207);
+    color: black;
+    height: 1000px;
+}
+#lasttop{
+    background-color: rgb(64, 64, 94);
+    text-align: center;
+    height: 20px;
+    padding: 15px 0px;
+}
+
+#f{
+    height: 110px;
+    margin: 20px 90px 0px;
+    
+}
+#s{
+    height: 110px;
+
+}
+#t{
+    height: 110px;
+
+}
+#fr{
+    height: 110px;
+
+}
+.x{
+    display: inline-block;
+    width: 250px;
+    margin-right: 30px;
+    text-align: center;
+    font-size: 14px;
+    background-color: #232F3E;
+    text-decoration: dashed;
+}
+#peep{
+    font-size: 13px;
+}
+#lst{
+    background-color: #232F3E;
+    height: 250px;
+}
+#slst{
+    background-color: #232F3E;
+    height: 98px;
+}
+#lo{
+    background-color: #232F3E;
+    height: 12px;
+    padding: 0px 7.2px ;
+    text-align: center;
+}
+#yoyo{
+    height: 13px;
+    width: 55px;
+}
+.jio{
+    margin-right: 10px;
+    font-size: 12px;
+    text-align: center;
+}
+#end{
+    background-color: black;
+    color: white;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    font-size: 12px;
+}
+#one{
+    height: 40px;
+    width: 82px;
+}
+#to{
+    height: 40px;
+    width: 110px;
+
+}
+#tre{
+    height: 40px;
+    width: 82px;
+
+}
+#for{
+    height: 40px;
+    width: 82px;
+
+}
+#fiv{
+    height: 40px;
+    width: 82px;
+
+}
+
+pre{
+    text-align: center;
+    color: white;
+}
+#use{
+    color: white;
+    text-align: center;
+}
